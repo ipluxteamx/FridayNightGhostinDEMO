@@ -169,8 +169,8 @@
 	"no_antialiasing": false,
 	"image": "characters/fng/GH_BF",
 	"position": [
-		-20,
-		290
+		0,
+		350
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -180,8 +180,8 @@
 		209
 	],
 	"camera_position": [
-		-160,
-		110
+		0,
+		0
 	],
 	"sing_duration": 4,
 	"scale": 1

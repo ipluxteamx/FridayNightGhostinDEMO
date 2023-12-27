@@ -6,9 +6,19 @@ class GhostyHouse extends BaseStage
 {
 	override function create()
 	{
-		var bg:BGSprite = new BGSprite('ghosty_NEWhouse', -100, -150, 1, 1);
-		bg.scale.x *= 2.8;
-		bg.scale.y *= 2.8;
-		add(bg);
+		var sky:BGSprite = new BGSprite('Gh_BG1', -100, -150, 0.5, 0.5);
+		sky.scale.x *= 3;
+		sky.scale.y *= 3;
+		add(sky);
+
+		var mountains:BGSprite = new BGSprite('GH_BG2', 0, -180, 0.8, 0.8);
+		mountains.scale.x *= 2.8;
+		mountains.scale.y *= 2.8;
+		add(mountains);
+
+		var house:BGSprite = new BGSprite('GH_BG3', 0, -140, 1, 1);
+		house.scale.x *= 2.8;
+		house.scale.y *= 2.8;
+		add(house);
 	}
 }

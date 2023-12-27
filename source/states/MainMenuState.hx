@@ -94,7 +94,7 @@ class MainMenuState extends MusicBeatState
 		ghosty.updateHitbox();
 		ghosty.screenCenter(Y);
 		ghosty.y += 50;
-		ghosty.x = FlxG.width - ghosty.width + 25;
+		ghosty.x = FlxG.width - ghosty.width + 125;
 
 		ghosty.angle = -2;
 		FlxTween.tween(ghosty, {angle: 2}, 4, {ease: FlxEase.quadInOut, type: FlxTweenType.PINGPONG});

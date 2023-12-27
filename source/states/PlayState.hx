@@ -402,6 +402,10 @@ class PlayState extends MusicBeatState
 			case 'tank': new states.stages.Tank(); //Week 7 - Ugh, Guns, Stress
 			case 'ghostyHouse': new states.stages.GhostyHouse(); //Week G
 		}
+		// YOU TAKE THE MOON
+		// AND YOU TAKE THIS GUN
+		// AND YOU FIND SCHNITZEL
+		// AND YOU SHOOT HIS SON
 
 		if(isPixelStage) {
 			introSoundsSuffix = '-pixel';
