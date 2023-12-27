@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Dawn", "ghosty", [255, 255, 255]],
+        ["Desperate", "ghosty", [100, 100, 100]],
+        ["Fantomatique", "ghosty", [50, 50, 50]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "We're ghostin' here!!",
+	"weekBefore": "week7",
+	"weekName": "Week G",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,32 @@
+{
+    "name": "base",
+    "displayName": "Base Game",
+    "character": "dad",
+    "color": [205, 155, 255],
+    "weeks": [
+        {
+            "name": "tutorial"
+        },
+        {
+            "name": "week1"
+        },
+        {
+            "name": "week2"
+        },
+        {
+            "name": "week3"
+        },
+        {
+            "name": "week4"
+        },
+        {
+            "name": "week5"
+        },
+        {
+            "name": "week6"
+        },
+        {
+            "name": "week7"
+        }
+    ]
+}

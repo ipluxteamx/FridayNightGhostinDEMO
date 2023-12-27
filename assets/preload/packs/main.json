@@ -1,0 +1,11 @@
+{
+    "name": "main",
+    "displayName": "Demo Songs",
+    "character": "ghosty",
+    "color": [205, 205, 255],
+    "weeks": [
+        {
+            "name": "fng/weekg"
+        }
+    ]
+}
