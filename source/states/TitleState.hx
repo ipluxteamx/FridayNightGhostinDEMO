@@ -182,7 +182,7 @@ class TitleState extends MusicBeatState
 			bg.makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
 		}
 
-		// bg.setGraphicSize(Std.int(bg.width * 0.6));
+		bg.setGraphicSize(Std.int(bg.width * 1.6));
 		// bg.updateHitbox();
 		add(bg);
 
@@ -229,16 +229,19 @@ class TitleState extends MusicBeatState
 		persistentUpdate = true;
 
 		logoBl = new FlxSprite(titleJSON.titlex, titleJSON.titley);
-		logoBl.frames = Paths.getSparrowAtlas('logoBumpin');
+		// load sprite png
+		logoBl.loadGraphic(Paths.image('fng/logo'));
 		logoBl.antialiasing = ClientPrefs.data.antialiasing;
-
-		logoBl.animation.addByPrefix('bump', 'logo bumpin', 24, false);
-		logoBl.animation.play('bump');
-
 		logoBl.angle = -2;
 		FlxTween.tween(logoBl, {angle: 2}, 1, {ease: FlxEase.quadInOut, type: FlxTweenType.PINGPONG});
+		// i think invert sent this ironically but i'm using it unironically LOL
+		logoBl.scale.set(1.0, 1.0);
+		FlxTween.tween(logoBl.scale, {x: 0.4, y: 0.4}, 0.75, {ease: FlxEase.quadOut});
+
 		logoBl.updateHitbox();
+
 		logoBl.screenCenter();
+		logoBl.x -= 50;
 		// logoBl.color = FlxColor.BLACK;
 
 		if(ClientPrefs.data.shaders) swagShader = new ColorSwap();

@@ -88,13 +88,13 @@ class MainMenuState extends MusicBeatState
 
 		ghosty.antialiasing = ClientPrefs.data.antialiasing;
 		ghosty.scrollFactor.set(0, yScroll / 1.5);
-		ghosty.setGraphicSize(Std.int(ghosty.width * 0.3));
+		ghosty.setGraphicSize(Std.int(ghosty.width * 0.285));
 		ghosty.flipX = true;
 
 		ghosty.updateHitbox();
 		ghosty.screenCenter(Y);
 		ghosty.y += 50;
-		ghosty.x = FlxG.width - ghosty.width + 125;
+		ghosty.x = FlxG.width - ghosty.width + 70;
 
 		ghosty.angle = -2;
 		FlxTween.tween(ghosty, {angle: 2}, 4, {ease: FlxEase.quadInOut, type: FlxTweenType.PINGPONG});

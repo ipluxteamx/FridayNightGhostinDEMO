@@ -46,7 +46,7 @@ class CreditsState extends MusicBeatState
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Ghosted Team'],
 			['iplux',				'iplux',			'Main Director, Creator and Owner'],
-			['Samy',				'samy',				'Co-Director, Artist, Animator and Great Guy'],
+			['Samy',				'samy',				'Co-Director, Artist, Animator, Musician and Great Guy'],
 			['Stilic', 				'stilic',			'Co-Director, Programmer'],
 			['Trist',				'trist',			'Co-Director, Musician'],
 			['That Pizza Tower Fan','tptf',				'Musician, Idea Gal, Best Friend'],
@@ -65,6 +65,7 @@ class CreditsState extends MusicBeatState
 			['Random',				'random',			'Charter and mmmmmmmm. bombs'],
 			['Shekkai47',			'shekkai',			'Voice Actor and WHAT WALKS THE DAY. THE NIGHT. WHENEVER THE FUCK IT WANTS'],
 			['Rosen the Funkin\' Wynaut', 'rosen',		'Voice Actor and NUTBUSTERS.'],
+			['BluArcade',			'blu',				'Playtester'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
