@@ -16,7 +16,7 @@ class GhostyHouse extends BaseStage
 		mountains.scale.y *= 2.8;
 		add(mountains);
 
-		var house:BGSprite = new BGSprite('NEW_HOUSE', -600, -450, 1, 1);
+		var house:BGSprite = new BGSprite('NEW_HOUSE', -600, -475, 1, 1);
 		house.scale.x *= 1.6;
 		house.scale.y *= 1.6;
 		add(house);

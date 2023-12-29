@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="VESSEL.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Didn't you listen to the man up on the roof ?0000" x="0" y="0" width="291" height="610" frameX="-122" frameY="0" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Didn't you listen to the man up on the roof ?0001" x="0" y="0" width="291" height="610" frameX="-122" frameY="0" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Didn't you listen to the man up on the roof ?0002" x="291" y="0" width="297" height="586" frameX="-119" frameY="-24" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Didn't you listen to the man up on the roof ?0003" x="291" y="0" width="297" height="586" frameX="-119" frameY="-24" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Didn't you listen to the man up on the roof ?0004" x="588" y="0" width="297" height="586" frameX="-119" frameY="-24" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Didn't you listen to the man up on the roof ?0005" x="588" y="0" width="297" height="586" frameX="-119" frameY="-24" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Didn't you listen to the man up on the roof ?0006" x="885" y="0" width="297" height="586" frameX="-119" frameY="-24" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Didn't you listen to the man up on the roof ?0007" x="885" y="0" width="297" height="586" frameX="-119" frameY="-24" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Didn't you listen to the man up on the roof ?0008" x="588" y="0" width="297" height="586" frameX="-119" frameY="-24" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Didn't you listen to the man up on the roof ?0009" x="588" y="0" width="297" height="586" frameX="-119" frameY="-24" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Didn't you listen to the man up on the roof ?0010" x="1182" y="0" width="529" height="586" frameX="0" frameY="-24" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Didn't you listen to the man up on the roof ?0011" x="1182" y="0" width="529" height="586" frameX="0" frameY="-24" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Didn't you listen to the man up on the roof ?0012" x="588" y="0" width="297" height="586" frameX="-119" frameY="-24" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Didn't you listen to the man up on the roof ?0013" x="588" y="0" width="297" height="586" frameX="-119" frameY="-24" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Didn't you listen to the man up on the roof ?0014" x="291" y="0" width="297" height="586" frameX="-119" frameY="-24" frameWidth="529" frameHeight="610"/>
+	<SubTexture name="Then why are you down there ?0000" x="1711" y="0" width="282" height="458" frameX="-127" frameY="-8" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="Then why are you down there ?0001" x="1711" y="0" width="282" height="458" frameX="-127" frameY="-8" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="Then why are you down there ?0002" x="1993" y="0" width="270" height="465" frameX="-134" frameY="0" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="Then why are you down there ?0003" x="1993" y="0" width="270" height="465" frameX="-134" frameY="0" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="Then why are you down there ?0004" x="2263" y="0" width="270" height="465" frameX="-134" frameY="0" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="Then why are you down there ?0005" x="2263" y="0" width="270" height="465" frameX="-134" frameY="0" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="Then why are you down there ?0006" x="2533" y="0" width="665" height="387" frameX="0" frameY="-78" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="Then why are you down there ?0007" x="2533" y="0" width="665" height="387" frameX="0" frameY="-78" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="Then why are you down there ?0008" x="1993" y="0" width="270" height="465" frameX="-134" frameY="0" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="Then why are you down there ?0009" x="1993" y="0" width="270" height="465" frameX="-134" frameY="0" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="Then why are you down there ?0010" x="3198" y="0" width="270" height="465" frameX="-134" frameY="0" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="Then why are you down there ?0011" x="3468" y="0" width="270" height="465" frameX="-134" frameY="0" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="Then why are you down there ?0012" x="3738" y="0" width="270" height="465" frameX="-134" frameY="0" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="Then why are you down there ?0013" x="3738" y="0" width="270" height="465" frameX="-134" frameY="0" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="Then why are you down there ?0014" x="0" y="610" width="274" height="410" frameX="-127" frameY="0" frameWidth="665" frameHeight="466"/>
+	<SubTexture name="There is nothing left0000" x="274" y="610" width="370" height="431" frameX="0" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0001" x="274" y="610" width="370" height="431" frameX="0" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0002" x="644" y="610" width="374" height="431" frameX="-2" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0003" x="1018" y="610" width="374" height="431" frameX="-2" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0004" x="1018" y="610" width="374" height="431" frameX="-2" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0005" x="1392" y="610" width="380" height="401" frameX="-66" frameY="-70" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0006" x="1772" y="610" width="374" height="431" frameX="-2" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0007" x="1772" y="610" width="374" height="431" frameX="-2" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0008" x="2146" y="610" width="380" height="401" frameX="-7" frameY="-30" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0009" x="1772" y="610" width="374" height="431" frameX="-2" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0010" x="1772" y="610" width="374" height="431" frameX="-2" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0011" x="1772" y="610" width="374" height="431" frameX="-2" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0012" x="1772" y="610" width="374" height="431" frameX="-2" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0013" x="1772" y="610" width="374" height="431" frameX="-2" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0014" x="1772" y="610" width="374" height="431" frameX="-2" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0015" x="1772" y="610" width="374" height="431" frameX="-2" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="There is nothing left0016" x="1772" y="610" width="374" height="431" frameX="-2" frameY="0" frameWidth="446" frameHeight="471"/>
+	<SubTexture name="Vessel in despair0000" x="2526" y="610" width="240" height="431" frameX="-49" frameY="0" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0001" x="2526" y="610" width="240" height="431" frameX="-49" frameY="0" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0002" x="2766" y="610" width="240" height="431" frameX="-49" frameY="0" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0003" x="2766" y="610" width="240" height="431" frameX="-49" frameY="0" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0004" x="3006" y="610" width="259" height="411" frameX="0" frameY="-48" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0005" x="3265" y="610" width="240" height="431" frameX="-49" frameY="0" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0006" x="3505" y="610" width="240" height="431" frameX="-49" frameY="0" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0007" x="3745" y="610" width="289" height="399" frameX="0" frameY="-32" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0008" x="0" y="1041" width="239" height="431" frameX="-49" frameY="0" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0009" x="0" y="1041" width="239" height="431" frameX="-49" frameY="0" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0010" x="239" y="1041" width="240" height="431" frameX="-49" frameY="0" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0011" x="239" y="1041" width="240" height="431" frameX="-49" frameY="0" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0012" x="479" y="1041" width="239" height="431" frameX="-49" frameY="0" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0013" x="479" y="1041" width="239" height="431" frameX="-49" frameY="0" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0014" x="718" y="1041" width="289" height="399" frameX="0" frameY="-32" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0015" x="1007" y="1041" width="240" height="431" frameX="-49" frameY="0" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="Vessel in despair0016" x="3265" y="610" width="240" height="431" frameX="-49" frameY="0" frameWidth="289" frameHeight="459"/>
+	<SubTexture name="You thought you made the right choise by staying here0000" x="1247" y="1041" width="402" height="437" frameX="-11" frameY="0" frameWidth="500" frameHeight="437"/>
+	<SubTexture name="You thought you made the right choise by staying here0001" x="1247" y="1041" width="402" height="437" frameX="-11" frameY="0" frameWidth="500" frameHeight="437"/>
+	<SubTexture name="You thought you made the right choise by staying here0002" x="1649" y="1041" width="404" height="437" frameX="0" frameY="0" frameWidth="500" frameHeight="437"/>
+	<SubTexture name="You thought you made the right choise by staying here0003" x="1649" y="1041" width="404" height="437" frameX="0" frameY="0" frameWidth="500" frameHeight="437"/>
+	<SubTexture name="You thought you made the right choise by staying here0004" x="2053" y="1041" width="404" height="437" frameX="0" frameY="0" frameWidth="500" frameHeight="437"/>
+	<SubTexture name="You thought you made the right choise by staying here0005" x="2053" y="1041" width="404" height="437" frameX="0" frameY="0" frameWidth="500" frameHeight="437"/>
+	<SubTexture name="You thought you made the right choise by staying here0006" x="2457" y="1041" width="403" height="437" frameX="0" frameY="0" frameWidth="500" frameHeight="437"/>
+	<SubTexture name="You thought you made the right choise by staying here0007" x="2457" y="1041" width="403" height="437" frameX="0" frameY="0" frameWidth="500" frameHeight="437"/>
+	<SubTexture name="You thought you made the right choise by staying here0008" x="2860" y="1041" width="404" height="437" frameX="0" frameY="0" frameWidth="500" frameHeight="437"/>
+	<SubTexture name="You thought you made the right choise by staying here0009" x="2860" y="1041" width="404" height="437" frameX="0" frameY="0" frameWidth="500" frameHeight="437"/>
+	<SubTexture name="You thought you made the right choise by staying here0010" x="1649" y="1041" width="404" height="437" frameX="0" frameY="0" frameWidth="500" frameHeight="437"/>
+	<SubTexture name="You thought you made the right choise by staying here0011" x="1649" y="1041" width="404" height="437" frameX="0" frameY="0" frameWidth="500" frameHeight="437"/>
+	<SubTexture name="You thought you made the right choise by staying here0012" x="3264" y="1041" width="404" height="437" frameX="0" frameY="0" frameWidth="500" frameHeight="437"/>
+	<SubTexture name="You thought you made the right choise by staying here0013" x="3264" y="1041" width="404" height="437" frameX="0" frameY="0" frameWidth="500" frameHeight="437"/>
+	<SubTexture name="You thought you made the right choise by staying here0014" x="3668" y="1041" width="391" height="437" frameX="-109" frameY="0" frameWidth="500" frameHeight="437"/>
+</TextureAtlas>

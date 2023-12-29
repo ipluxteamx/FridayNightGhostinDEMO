@@ -561,7 +561,7 @@ class PlayState extends MusicBeatState
 		timeTxt.scrollFactor.set();
 		timeTxt.alpha = 0;
 		timeTxt.borderSize = 1.25;
-		timeTxt.x = FlxG.width - 220;
+		timeTxt.x = FlxG.width - 190;
 		timeTxt.y = scoreTxt.y - 3;
 		timeTxt.visible = updateTime = showTime;
 		if(ClientPrefs.data.downScroll) timeTxt.y = FlxG.height - 44;
@@ -605,21 +605,18 @@ class PlayState extends MusicBeatState
 
 		startingSong = true;
 		
-		#if LUA_ALLOWED
 		for (notetype in noteTypes)
 			startLuasNamed('custom_notetypes/' + notetype + '.lua');
 
 		for (event in eventsPushed)
 			startLuasNamed('custom_events/' + event + '.lua');
-		#end
 
-		#if HSCRIPT_ALLOWED
 		for (notetype in noteTypes)
 			startHScriptsNamed('custom_notetypes/' + notetype + '.hx');
 
 		for (event in eventsPushed)
 			startHScriptsNamed('custom_events/' + event + '.hx');
-		#end
+		
 		noteTypes = null;
 		eventsPushed = null;
 

@@ -176,15 +176,15 @@ class TitleState extends MusicBeatState
 		var bg:FlxSprite = new FlxSprite();
 		bg.antialiasing = ClientPrefs.data.antialiasing;
 
-		if (titleJSON.backgroundSprite != null && titleJSON.backgroundSprite.length > 0 && titleJSON.backgroundSprite != "none"){
-			bg.loadGraphic(Paths.image(titleJSON.backgroundSprite));
-		}else{
-			bg.makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
-		}
-
-		bg.setGraphicSize(Std.int(bg.width * 1.6));
+		bg.loadGraphic(Paths.image(titleJSON.backgroundSprite));
+		bg.setGraphicSize(Std.int(bg.width * 1.8));
+		bg.y -= 75;
 		// bg.updateHitbox();
 		add(bg);
+
+		var black_transparent:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
+		black_transparent.alpha = 0.4;
+		add(black_transparent);
 
 		FlxG.mouse.visible = false;
 		#if FREEPLAY
