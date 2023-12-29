@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Vessel in despair",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "You thought you made the right choise by staying here",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				370
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Didn't you listen to the man up on the roof ?",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Then why are you down there ?",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "There is nothing left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fng/VESSEL",
+	"position": [
+		-30,
+		170
+	],
+	"healthicon": "vessel",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		21,
+		30
+	],
+	"camera_position": [
+		-100,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

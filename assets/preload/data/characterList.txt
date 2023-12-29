@@ -27,3 +27,4 @@ tankman-player
 
 fng/ghosty
 fng/bf-gh
+fng/vessel
