@@ -147,7 +147,7 @@ class MainMenuState extends MusicBeatState
 		// versionShit.scrollFactor.set();
 		// versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		// add(versionShit);
-		var fridayNightGhostin:FlxText = new FlxText(12, FlxG.height - 24, 0, "Friday Night Ghostin' Revitalized | BETA BUILD", 12);
+		var fridayNightGhostin:FlxText = new FlxText(12, FlxG.height - 24, 0, "Friday Night Ghostin' Revitalized | WEEK G DEMO", 12);
 		fridayNightGhostin.scrollFactor.set();
 		fridayNightGhostin.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(fridayNightGhostin);

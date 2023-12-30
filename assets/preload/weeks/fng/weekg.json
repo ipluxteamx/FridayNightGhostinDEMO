@@ -3,7 +3,7 @@
 		["Dawn", "ghosty", [255, 255, 255]],
 		["Temper", "ghosty", [195, 195, 195]],
         ["Desperate", "ghosty", [100, 100, 100]],
-        ["Fantomatique", "ghosty", [50, 50, 50]]
+        ["Fantomatique", "vessel", [50, 50, 50]]
 	],
 
 	"weekCharacters": [
