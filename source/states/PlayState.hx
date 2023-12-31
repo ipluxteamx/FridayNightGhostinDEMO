@@ -400,7 +400,8 @@ class PlayState extends MusicBeatState
 			case 'school': new states.stages.School(); //Week 6 - Senpai, Roses
 			case 'schoolEvil': new states.stages.SchoolEvil(); //Week 6 - Thorns
 			case 'tank': new states.stages.Tank(); //Week 7 - Ugh, Guns, Stress
-			case 'ghostyHouse': new states.stages.GhostyHouse(); //Week G
+			case 'ghostyHouse': new states.stages.GhostyHouse(); //Week G part 1
+			case 'fantomatique': new states.stages.Fantomatique(); //Week G part 2
 		}
 		// YOU TAKE THE MOON
 		// AND YOU TAKE THIS GUN

@@ -78,6 +78,8 @@ class TitleState extends MusicBeatState
 	var easterEggKeysBuffer:String = '';
 	#end
 
+	var black_transparent:FlxSprite;
+
 	var mustUpdate:Bool = false;
 
 	var titleJSON:TitleData;
@@ -182,8 +184,8 @@ class TitleState extends MusicBeatState
 		// bg.updateHitbox();
 		add(bg);
 
-		var black_transparent:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
-		black_transparent.alpha = 0.4;
+		black_transparent = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
+		black_transparent.alpha = 0.8;
 		add(black_transparent);
 
 		FlxG.mouse.visible = false;
@@ -284,7 +286,6 @@ class TitleState extends MusicBeatState
 		}
 
 		add(gfDance);
-		add(logoBl);
 		if(swagShader != null)
 		{
 			gfDance.shader = swagShader.shader;
@@ -331,8 +332,8 @@ class TitleState extends MusicBeatState
 		add(credGroup);
 		textGroup = new FlxGroup();
 
-		blackScreen = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
-		credGroup.add(blackScreen);
+		//blackScreen = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
+		//credGroup.add(blackScreen);
 
 		credTextShit = new Alphabet(0, 0, "", true);
 		credTextShit.screenCenter();
@@ -594,7 +595,7 @@ class TitleState extends MusicBeatState
 					addMoreText('The Ghosted Team');
 				// credTextShit.visible = true;
 				case 3:
-					addMoreText('present');
+					addMoreText('presents');
 				// credTextShit.text += '\npresent...';
 				// credTextShit.addText();
 				case 8:
@@ -636,6 +637,7 @@ class TitleState extends MusicBeatState
 					addMoreText('Revitalized');
 
 				case 33:
+					black_transparent.alpha = 0.4;
 					skipIntro();
 			}
 		}
@@ -647,6 +649,7 @@ class TitleState extends MusicBeatState
 	{
 		if (!skippedIntro)
 		{
+			add(logoBl);
 			if (playJingle) //Ignore deez
 			{
 				var easteregg:String = FlxG.save.data.psychDevsEasterEgg;
