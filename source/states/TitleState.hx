@@ -637,7 +637,6 @@ class TitleState extends MusicBeatState
 					addMoreText('Revitalized');
 
 				case 33:
-					black_transparent.alpha = 0.4;
 					skipIntro();
 			}
 		}
@@ -649,6 +648,7 @@ class TitleState extends MusicBeatState
 	{
 		if (!skippedIntro)
 		{
+			black_transparent.alpha = 0.4;
 			add(logoBl);
 			if (playJingle) //Ignore deez
 			{
